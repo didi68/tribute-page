@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, serif;
+  }
+  
+  #main > h2, p {
+    text-align: center;
+  }
+  
+  body {
+    background-color: #F4DFC8;
+  }
+  
+  #image {
+    display: block;
+    height: auto;
+    width: 80%;
+    max-width: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  
+  #img-div, #tribute-info > h2 {
+    text-align: center;
+  }
+  
+  #tribute-info {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  #tribute-info span {
+    font-weight: bold;
+  }
+  
+  #tribute-info .sub {
+    font-style: italic;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #6B240C;
+  }
+  #img-caption {
+    padding: 1%;
+  }
